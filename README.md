@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Hasssan-x
-- 👀 I’m interested in CYBERSÉCURITÉ 
-- 🌱 I’m currently learning CYBERSÉCURITÉ 
+- 👋 Hi, I’m @Elhasssan-x
+- 👀 I’m interested in Cybersecurity 
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on 🚯🏃🏻‍♂️🏃🏻‍♂️
-- 📫 How to reach meUSA
-- 😄 Pronouns: WELDA AHMED AD W FATIMA 
+- 📫 How to reach me : iyahiaelhassan@gmail.com
+- 😄 Pronouns : WA HASSAAAAAAAN 
 - ⚡ Fun fact: koun rajel
 
 <!---
